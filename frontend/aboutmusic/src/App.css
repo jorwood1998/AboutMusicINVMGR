@@ -5,6 +5,7 @@
 .App{
   max-width: 490px;
   margin: auto;
+  background-color: green;
   padding: 42px 24px;
 }
 
