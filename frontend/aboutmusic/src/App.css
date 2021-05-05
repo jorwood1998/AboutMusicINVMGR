@@ -3,8 +3,9 @@
 }
 
 .App{
-  max-width: 500px;
+  max-width: 490px;
   margin: auto;
+  background-color: green;
   padding: 42px 24px;
   background-color: aqua;
 }
