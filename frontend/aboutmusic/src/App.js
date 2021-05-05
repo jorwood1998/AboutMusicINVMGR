@@ -16,12 +16,12 @@ class App extends React.Component{
 
       const productRes = await axios({
         method: 'GET',
-        url: 'http://localhost:1337/Products'
+        url: 'http://localhost:1336/Products'
       })
 
       const stockEventRes = await axios({
         method: 'GET',
-        url: 'http://localhost:1337/Stockevents'
+        url: 'http://localhost:1336/Stockevents'
       })
 
       const fetchedproducts = productRes.data

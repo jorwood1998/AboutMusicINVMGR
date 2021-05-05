@@ -5,9 +5,7 @@
 .App{
   max-width: 490px;
   margin: auto;
-  background-color: red;
   padding: 42px 24px;
-  background-color: aqua;
 }
 
 .StockEventsTable__card{
